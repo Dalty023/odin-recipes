@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(209, 114, 26);
+    line-height: 2;
+    font-size:125%;
+    font-family: 'Fascinate Inline', cursive;
+    text-align: center;
+    text-decoration: dashed;
+    list-style-type: none;
+    color:rgb(5, 5, 177)
+}
+img {
+    align-items: center;
+}
