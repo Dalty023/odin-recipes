@@ -1,13 +1,12 @@
-*{
-    background-color: rgb(209, 114, 26);
-    line-height: 2;
-    font-size:125%;
-    font-family: 'Fascinate Inline', cursive;
-    text-align: center;
-    text-decoration: dashed;
-    list-style-type: none;
-    color:rgb(5, 5, 177)
+body{
+    background-image: url("./images/bar.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
 }
-img {
-    align-items: center;
+*{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
 }
